@@ -107,39 +107,39 @@ The project uses the following default configurations:
 
 ## App images
 **Login page**
-![Login page](https://raw.githubusercontent.com/arthurhdr/artie-imgs/refs/heads/main/bookstores/Screenshot%202025-11-25%20at%2020-18-17%20Vite%20React.png?token=GHSAT0AAAAAADMFNHDM44JFJAD7DYTMGODA2JGJPMQ)
+![Login page](https://raw.githubusercontent.com/arthurhdr/artie-imgs/refs/heads/main/bookstores/Screenshot%202025-11-25%20at%2020-18-17%20Vite%20React.png?token=GHSAT0AAAAAADMFNHDMSPCVH3WTQZ423DXY2JGJ3MA)
 
 
 **Register page**
-![Register page](https://raw.githubusercontent.com/arthurhdr/artie-imgs/refs/heads/main/bookstores/Screenshot%202025-11-25%20at%2020-18-29%20Vite%20React.png?token=GHSAT0AAAAAADMFNHDNW5XT5N4UFBJEJ23Y2JGJP7A)
+![Register page](https://raw.githubusercontent.com/arthurhdr/artie-imgs/refs/heads/main/bookstores/Screenshot%202025-11-25%20at%2020-18-29%20Vite%20React.png?token=GHSAT0AAAAAADMFNHDNT22W3EB7W6HSBXSE2JGJ3XA)
 
 
 **Empty book page**
-![Empty book page](https://raw.githubusercontent.com/arthurhdr/artie-imgs/refs/heads/main/bookstores/Screenshot%202025-11-25%20at%2020-19-05%20Vite%20React.png?token=GHSAT0AAAAAADMFNHDMO3FOPPCRNADPC2JC2JGJQVA)
+![Empty book page](https://raw.githubusercontent.com/arthurhdr/artie-imgs/refs/heads/main/bookstores/Screenshot%202025-11-25%20at%2020-19-05%20Vite%20React.png?token=GHSAT0AAAAAADMFNHDMWX4Y7O2FS4ESMMA42JGJ4GA)
 
 
 **Add new book**
-![Add new book](https://raw.githubusercontent.com/arthurhdr/artie-imgs/refs/heads/main/bookstores/Screenshot%202025-11-25%20at%2020-19-50%20Vite%20React.png?token=GHSAT0AAAAAADMFNHDN766NQ5UFR7BKIZLE2JGJRVQ)
+![Add new book](https://raw.githubusercontent.com/arthurhdr/artie-imgs/refs/heads/main/bookstores/Screenshot%202025-11-25%20at%2020-19-50%20Vite%20React.png?token=GHSAT0AAAAAADMFNHDMKBS47PWJIN7WR2ZS2JGJ4OA)
 
 
 **Book page with books**
-![Book page](https://raw.githubusercontent.com/arthurhdr/artie-imgs/refs/heads/main/bookstores/Screenshot%202025-11-25%20at%2020-21-31%20Vite%20React.png?token=GHSAT0AAAAAADMFNHDMJG4TLTNWCETKUJ6E2JGJSIA)
+![Book page](https://raw.githubusercontent.com/arthurhdr/artie-imgs/refs/heads/main/bookstores/Screenshot%202025-11-25%20at%2020-21-31%20Vite%20React.png?token=GHSAT0AAAAAADMFNHDMGYAPZAY7JR55UH2Y2JGJ4UQ)
 
 
 **Card view**
-![Card view](https://raw.githubusercontent.com/arthurhdr/artie-imgs/refs/heads/main/bookstores/Screenshot%202025-11-25%20at%2020-21-39%20Vite%20React.png?token=GHSAT0AAAAAADMFNHDNENMIKYCWVT4YXTYA2JGJTAA)
+![Card view](https://raw.githubusercontent.com/arthurhdr/artie-imgs/refs/heads/main/bookstores/Screenshot%202025-11-25%20at%2020-21-39%20Vite%20React.png?token=GHSAT0AAAAAADMFNHDMV4B2BYEMWQJFJ42W2JGJ44Q)
 
 
 **Modal View**
-![Modal view](https://raw.githubusercontent.com/arthurhdr/artie-imgs/refs/heads/main/bookstores/Screenshot%202025-11-25%20at%2020-22-06%20Vite%20React.png?token=GHSAT0AAAAAADMFNHDNHPSK43KFV665J5TW2JGJTRQ)
+![Modal view](https://raw.githubusercontent.com/arthurhdr/artie-imgs/refs/heads/main/bookstores/Screenshot%202025-11-25%20at%2020-22-06%20Vite%20React.png?token=GHSAT0AAAAAADMFNHDNQW45OBPUAQI7JGWS2JGJ5EA)
 
 
 **Full description**
-![Full description](https://raw.githubusercontent.com/arthurhdr/artie-imgs/refs/heads/main/bookstores/Screenshot%202025-11-25%20at%2020-22-23%20Vite%20React.png?token=GHSAT0AAAAAADMFNHDNOSDG7XOGDYDRMIRQ2JGJUBQ)
+![Full description](https://raw.githubusercontent.com/arthurhdr/artie-imgs/refs/heads/main/bookstores/Screenshot%202025-11-25%20at%2020-22-23%20Vite%20React.png?token=GHSAT0AAAAAADMFNHDMB7SCVI3AED23MSR62JGJ5NQ)
 
 
 **Delete book page**
-![Delete book](https://raw.githubusercontent.com/arthurhdr/artie-imgs/refs/heads/main/bookstores/Screenshot%202025-11-25%20at%2020-22-36%20Vite%20React.png?token=GHSAT0AAAAAADMFNHDNPPPT7XQUO2HJ4ALQ2JGJU7A)
+![Delete book](https://raw.githubusercontent.com/arthurhdr/artie-imgs/refs/heads/main/bookstores/Screenshot%202025-11-25%20at%2020-22-36%20Vite%20React.png?token=GHSAT0AAAAAADMFNHDNNDXR2NWCQ36ETYLQ2JGJ5XA)
 
 ##  License
 
